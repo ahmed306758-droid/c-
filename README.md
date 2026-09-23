@@ -1,26 +1,26 @@
 # CS 250 — Software Development Lifecycle / Agile
 
-Course materials on Agile practices, user stories, and team collaboration in software development.
+Course materials focused on Agile practices, user stories, Scrum events, and team collaboration in software development.
 
----
+## What this repository demonstrates
+
+- Interpreting user needs through user stories
+- Planning iterative development work
+- Using Scrum-style events and artifacts
+- Communicating project status and responsibilities
+- Connecting software requirements to delivery practices
 
 ## Contents
 
 - Final project presentation (`.pptx`)
-- Agile/Scrum documentation and charts
-- Related project write-ups
+- Agile and Scrum documentation
+- Charts and project write-ups
 
----
-
-## Focus areas
-
-- Interpreting user needs with user stories
-- Iterative development and Scrum-style processes
-- Communication, accountability, and teamwork in software projects
-
----
+This is a documentation-focused coursework repository. It is included to show software-process knowledge alongside my programming, database, and analytics projects.
 
 ## Author
 
-**Ahmed Ahmed**  
-Portfolio: [ahmed306758-droid.github.io/ahmedporfolio](https://ahmed306758-droid.github.io/ahmedporfolio/)
+**Ahmed Ahmed**
+
+- [Portfolio](https://ahmed306758-droid.github.io/ahmedporfolio/)
+- [GitHub](https://github.com/ahmed306758-droid)
